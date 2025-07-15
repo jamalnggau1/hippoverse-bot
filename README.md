@@ -2,9 +2,9 @@
 markdown
 Copy
 Edit
-# Hipoverse Task Auto)
+# Hipoverse Task Auto
 
-Script ini digunakan untuk menjalankan semua `daily task` di platform [Hipoverse](https://hipoverse.xyz) secara otomatis untuk banyak akun, serta menampilkan poin dari masing-masing akun setelah task dijalankan.
+Script ini digunakan untuk menjalankan semua `daily task` di platform [Hipoverse](https://hipoverse.xyz/join?ref=927137319058829362) secara otomatis untuk banyak akun, serta menampilkan poin dari masing-masing akun setelah task dijalankan.
 
 ---
 
