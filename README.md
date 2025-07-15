@@ -12,7 +12,6 @@ Script ini digunakan untuk menjalankan semua `daily task` di platform [Hipoverse
 
 - `akun.jsonl` — berisi token Bearer per baris (satu token per akun).
 - `main.py` — script Python utama.
-- `dataset.jsonl` *(opsional)* — file untuk melatih AI (jika ingin mengajari automation berbasis HAR/API).
 
 ---
 
