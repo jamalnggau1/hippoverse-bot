@@ -27,15 +27,9 @@ Install Python 3.7+ (direkomendasikan: 3.10).
 
 Install dependensi:
 
-bash
-Copy
-Edit
+
 pip install requests
 Jalankan script:
-
-bash
-Copy
-Edit
 python main.py
 ⚙️ Fitur
 ✅ Menjalankan semua task harian (daily task) untuk tiap akun
