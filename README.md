@@ -27,10 +27,12 @@ Install Python 3.7+ (direkomendasikan: 3.10).
 
 Install dependensi:
 
-
 pip install requests
 Jalankan script:
 python main.py
+
+
+
 ⚙️ Fitur
 ✅ Menjalankan semua task harian (daily task) untuk tiap akun
 
