@@ -13,11 +13,11 @@ Script ini digunakan untuk menjalankan semua `daily task` di platform [Hipoverse
 
 ## 🧾 Contoh Format `akun.jsonl`
 
-text
+```text
 Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.aaa...
 Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.bbb...
 Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ccc...
-text```
+
 
 🚀 Cara Menjalankan
 Install Python 3.7+ (direkomendasikan: 3.10).
