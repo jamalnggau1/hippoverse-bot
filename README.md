@@ -28,7 +28,7 @@ pip install requests
 Jalankan script:
 python main.py
 
-
+---
 
 ⚙️ Fitur
 
@@ -42,7 +42,12 @@ python main.py
 
 ✅ Ekstrak user_id dari token JWT secara lokal tanpa library tambahan
 
+
+---
+
+
 💡 Catatan
+
 Token harus valid. Jika kadaluarsa (expired), task akan gagal.
 
 user_id diambil otomatis dari token (sub dari payload JWT).
