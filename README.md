@@ -2,7 +2,7 @@
 markdown
 Copy
 Edit
-# Hipoverse Task Automator (Multi Akun + Point Tracker)
+# Hipoverse Task Auto)
 
 Script ini digunakan untuk menjalankan semua `daily task` di platform [Hipoverse](https://hipoverse.xyz) secara otomatis untuk banyak akun, serta menampilkan poin dari masing-masing akun setelah task dijalankan.
 
