@@ -25,7 +25,9 @@ Install Python 3.7+ (direkomendasikan: 3.10).
 Install dependensi:
 
 pip install requests
+
 Jalankan script:
+
 python main.py
 
 ---
